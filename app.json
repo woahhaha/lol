@@ -1,5 +1,5 @@
 {
-  "name":"lol"><img src=x onerror=alert(/xss/)>",
+  "name":"lol<img src=x onerror=alert(/xss/)>",
   "description":"XD",
   "scripts":{},
   "env":{},
